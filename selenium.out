@@ -1,0 +1,24 @@
+2019-05-25 18:41:03 INFO  Base:12 - Begin Test StartWebDriver
+2019-05-25 18:41:06 INFO  Base:17 - Step1 verifyLoginPageExists
+2019-05-25 18:41:39 INFO  Base:22 - Step2 enterWrongLogin
+2019-05-25 18:42:09 INFO  Base:27 - Step3 verifyLoginResult
+2019-05-25 18:42:09 INFO  Base:18 - End of Test
+2019-05-25 18:42:15 INFO  Base:12 - Begin Test StartWebDriver
+2019-05-25 18:42:16 INFO  Base:14 - Step4.1 verifyLoginPageExists4
+2019-05-25 18:42:46 INFO  Base:19 - Step4.2 enterCorrectLogin
+2019-05-25 18:42:48 INFO  Base:24 - Step4.3 verifyLoginResult4
+2019-05-25 18:43:07 INFO  Base:18 - End of Test
+2019-05-25 18:43:08 INFO  Base:12 - Begin Test StartWebDriver
+2019-05-25 18:43:10 INFO  Base:14 - Step4.1 verifyLoginPageExists456
+2019-05-25 18:43:45 INFO  Base:19 - Step4.2 enterCorrectLogin456
+2019-05-25 18:43:52 INFO  Base:33 - Step5 gotoWireless
+2019-05-25 18:44:47 INFO  Base:39 - Step6 selectSmartphones
+2019-05-25 18:44:53 INFO  Base:44 - Step6 verifyResult456
+2019-05-25 18:44:53 INFO  Base:18 - End of Test
+2019-05-25 18:44:54 INFO  Base:12 - Begin Test StartWebDriver
+2019-05-25 18:44:56 INFO  Base:17 - Step7 smartphonesPageExists
+2019-05-25 18:45:37 INFO  Base:22 - Step7.2 selectGalaxy10SPlus
+2019-05-25 18:46:16 INFO  Base:28 - Step8 pickColor
+2019-05-25 18:46:17 INFO  Base:34 - Step9 addToCart
+2019-05-25 18:46:18 INFO  Base:39 - Step9 VerifyResult789
+2019-05-25 18:46:18 INFO  Base:18 - End of Test
