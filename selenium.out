@@ -1,0 +1,15 @@
+2019-05-26 01:26:25 INFO  Base:12 - Begin Test StartWebDriver
+2019-05-26 01:26:27 INFO  Base:17 - Step1 verifyLoginPageExists
+2019-05-26 01:26:31 INFO  Base:22 - Step2 enterWrongLogin
+2019-05-26 01:26:35 INFO  Base:27 - Step3 verifyLoginResult
+2019-05-26 01:26:35 INFO  Base:18 - End of Test
+2019-05-26 01:26:36 INFO  Base:12 - Begin Test StartWebDriver
+2019-05-26 01:26:37 INFO  Base:14 - Step4.1 verifyLoginPageExists4
+2019-05-26 01:26:40 INFO  Base:19 - Step4.2 enterCorrectLogin
+2019-05-26 01:26:42 INFO  Base:24 - Step4.3 verifyLoginResult4
+2019-05-26 01:26:47 INFO  Base:18 - End of Test
+2019-05-26 01:26:48 INFO  Base:12 - Begin Test StartWebDriver
+2019-05-26 01:26:49 INFO  Base:14 - Step4.1 verifyLoginPageExists456
+2019-05-26 01:27:00 INFO  Base:19 - Step4.2 enterCorrectLogin456
+2019-05-26 01:27:01 INFO  Base:18 - End of Test
+2019-05-26 01:27:01 INFO  Base:12 - Begin Test StartWebDriver
